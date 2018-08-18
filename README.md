@@ -1,5 +1,6 @@
 # LL-1-ParserGenerator
-Predictive Parsing 
+Predictive Parsing
+
 Module -1 : Parse Table Construction:
 Inputs : grammar.txt / grammar2.txt , first_follow.txt/ first_follow2.txt
 
